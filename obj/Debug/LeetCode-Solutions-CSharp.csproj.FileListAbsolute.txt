@@ -1,0 +1,30 @@
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\LeetCode-Solutions-CSharp.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\LeetCode-Solutions-CSharp.pdb
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\obj\Debug\LeetCode-Solutions-CSharp.csproj.AssemblyReference.cache
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\obj\Debug\LeetCode-Solutions-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\obj\Debug\LeetCode-Solutions-CSharp.csproj.CopyComplete
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\obj\Debug\LeetCode-Solutions-CSharp.dll
+C:\Users\kunzh\Documents\GitHub\LeetCode-Solutions-CSharp\obj\Debug\LeetCode-Solutions-CSharp.pdb
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\LeetCode-Solutions-CSharp.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\LeetCode-Solutions-CSharp.pdb
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\GitHub\LeetCode Solutions CSharp\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\GitHub\LeetCode Solutions CSharp\obj\Debug\LeetCode-Solutions-CSharp.csproj.AssemblyReference.cache
+D:\GitHub\LeetCode Solutions CSharp\obj\Debug\LeetCode-Solutions-CSharp.csproj.CoreCompileInputs.cache
+D:\GitHub\LeetCode Solutions CSharp\obj\Debug\LeetCode-Solutions-CSharp.csproj.CopyComplete
+D:\GitHub\LeetCode Solutions CSharp\obj\Debug\LeetCode-Solutions-CSharp.dll
+D:\GitHub\LeetCode Solutions CSharp\obj\Debug\LeetCode-Solutions-CSharp.pdb
