@@ -78,7 +78,8 @@
     <Compile Include="Solutions.Test\T001-T050\T008_StringToIntegerAtoi.cs" />
     <Compile Include="Solutions.Test\T001-T050\T007_ReverseInteger.cs" />
     <Compile Include="Solutions.Test\T001-T050\T005_LongestPalindrome.cs" />
-    <Compile Include="Solutions.Test\T053_Maximum_Subarray.cs" />
+    <Compile Include="Solutions.Test\T051-T100\T054_Spiral_Matrix.cs" />
+    <Compile Include="Solutions.Test\T051-T100\T053_Maximum_Subarray.cs" />
     <Compile Include="Solutions.Test\TestHelper.cs" />
     <Compile Include="Solutions\ListNode.cs" />
     <Compile Include="Solutions\S001-050\S004_MedianOfTwoArrays.cs" />
@@ -110,7 +111,8 @@
     <Compile Include="Solutions\S001-050\S007_ReverseInteger.cs" />
     <Compile Include="Solutions\S001-050\S005_LongestPalindrome.cs" />
     <Compile Include="Solutions\S001-050\S005_LongestPalindrome_Manacher.cs" />
-    <Compile Include="Solutions\S053_Maximum_Subarray.cs" />
+    <Compile Include="Solutions\S051-100\S054_Spiral_Matrix.cs" />
+    <Compile Include="Solutions\S051-100\S053_Maximum_Subarray.cs" />
     <Compile Include="Solutions\TreeLinkNode.cs" />
     <Compile Include="Solutions\TreeNode.cs" />
   </ItemGroup>
